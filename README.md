@@ -9,10 +9,10 @@
 
 <br>
 
-<p><img align="right" src="[https://github.com/subaseyy/subaseyy/main/animation_500_kxa883sd.gif](https://github.com/subaseyy/subaseyy/blob/main/animation_500_kxa883sd.gif)" alt="subasye" /></p>
+<p><img align="right" src="https://github.com/subaseyy/subaseyy/blob/main/animation_500_kxa883sd.gif" alt="subasye" /></p>
 
 
-- 🌱 I’m currently learning different programming language and currently working as  **COO** at **Nest Nepal Business Solution**
+- 🌱 I’m currently learning different programming languages and currently working as  **COO** at **Nest Nepal Business Solution**
 
 - 📫 How to reach me **subas@nestnepal.com.np**
 
