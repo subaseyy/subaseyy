@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **subas@nestnepal.com.np**
 
-- ⚡ Fun fact :- Dead Inside
+- ⚡ Fun fact :- \
 
 <br>
 
